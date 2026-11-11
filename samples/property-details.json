@@ -1,0 +1,347 @@
+{
+  "success": true,
+  "data": {
+    "listingId": "172049-46",
+    "realtyId": 47584930,
+    "images": [
+      "https://hecdn01.hemlak.com/mncropresize/800/600/ds01/0/3/9/4/8/5/7/4/1793725649-238933-47584930.jpeg",
+      "https://hecdn01.hemlak.com/mncropresize/800/600/ds01/0/3/9/4/8/5/7/4/1793725650-709979-47584930.jpeg",
+      "https://hecdn01.hemlak.com/mncropresize/800/600/ds01/0/3/9/4/8/5/7/4/1793725651-675226-47584930.jpeg"
+    ],
+    "title": "TEK YETKİLİ ,GÖZTEPE MARMARAYA VE MİNÜBÜSE YAKIN ,BAHÇE KEYİFLİ 2+1 SATILIK DAİRE",
+    "price": 12750000,
+    "daysSinceCreated": "0",
+    "updatedDate": "2026-11-03T17:53:34.093+0000",
+    "category": {
+      "intent": {
+        "id": 1000010101,
+        "typeName": "Satılık"
+      },
+      "mainCategory": {
+        "id": 1000010100,
+        "typeName": "Konut"
+      },
+      "subCategory": {
+        "id": 10000101,
+        "typeName": "Daire"
+      }
+    },
+    "currency": "TL",
+    "realtyAttributes": [
+      {
+        "name": "Fiyat",
+        "typeID": 0,
+        "value": "12.750.000 TL"
+      },
+      {
+        "name": "İlan No",
+        "typeID": 0,
+        "value": "172049-46"
+      },
+      {
+        "name": "Son Güncelleme Tarihi",
+        "typeID": 0,
+        "value": "2026-11-03T17:53:34.093+0000"
+      },
+      {
+        "name": "İlan Durumu",
+        "typeID": 0,
+        "value": "Satılık"
+      },
+      {
+        "name": "Konut Tipi",
+        "typeID": 0,
+        "value": "Daire"
+      },
+      {
+        "name": "Konut Şekli",
+        "typeID": 0,
+        "value": "Bahçe Katı"
+      },
+      {
+        "name": "Oda + Salon Sayısı",
+        "typeID": 0,
+        "value": "2+1"
+      },
+      {
+        "name": "Banyo Sayısı",
+        "typeID": 0,
+        "value": "1"
+      },
+      {
+        "name": "Brüt / Net m2",
+        "typeID": 0,
+        "value": "90 m2 / 60 m2"
+      },
+      {
+        "name": "Kat Sayısı",
+        "typeID": 0,
+        "value": "8 Katlı"
+      },
+      {
+        "name": "Bulunduğu Kat",
+        "typeID": 0,
+        "value": "Giriş Katı"
+      },
+      {
+        "name": "Bina Yaşı",
+        "typeID": 0,
+        "value": "10 Yaşında"
+      },
+      {
+        "name": "Isınma Tipi",
+        "typeID": 0,
+        "value": "Kombi"
+      },
+      {
+        "name": "Yakıt Tipi",
+        "typeID": 0,
+        "value": "Doğalgaz"
+      },
+      {
+        "name": "Krediye Uygunluk",
+        "typeID": 0,
+        "value": "Uygun"
+      },
+      {
+        "name": "Tapu Durumu",
+        "typeID": 0,
+        "value": "Kat Mülkiyeti"
+      },
+      {
+        "name": "Eşya Durumu",
+        "typeID": 0,
+        "value": "Eşyalı Değil"
+      },
+      {
+        "name": "Yapı Tipi",
+        "typeID": 0,
+        "value": "Betonarme"
+      },
+      {
+        "name": "Yapının Durumu",
+        "typeID": 0,
+        "value": "İkinci El"
+      },
+      {
+        "name": "Kullanım Durumu",
+        "typeID": 0,
+        "value": "Boş"
+      },
+      {
+        "name": "Cephe",
+        "typeID": 0,
+        "value": "Güney, Batı"
+      },
+      {
+        "name": "Kira Getirisi",
+        "typeID": 0,
+        "value": "85000 TL"
+      },
+      {
+        "name": "Aidat",
+        "typeID": 0,
+        "value": "3000 TL"
+      },
+      {
+        "name": "Takas",
+        "typeID": 0,
+        "value": "Yapılmaz"
+      },
+      {
+        "name": "Yetkili Ofis",
+        "typeID": 0,
+        "value": "Evet"
+      },
+      {
+        "name": "Enerji Kimlik Belgesi (EKB)",
+        "typeID": 0,
+        "value": ""
+      },
+      {
+        "name": "Tasarruf Finansmanına Uygunluk",
+        "typeID": 0,
+        "value": "Uygun"
+      }
+    ],
+    "tileAttributes": null,
+    "detailUrl": "istanbul-kadikoy-goztepe-satilik/daire/172049-46",
+    "properties": [
+      {
+        "title": "İç Özellikler",
+        "names": [
+          "ADSL",
+          "Alarm",
+          "Ankastre Mutfak",
+          "Asansör",
+          "Balkon",
+          "Çelik Kapı",
+          "Duşakabin",
+          "Elektrikli Panjur",
+          "Engelliye Uygun Merdiven",
+          "Engelliye Uygun Oda Kapısı"
+        ]
+      },
+      {
+        "title": "Dış Özellikler",
+        "names": [
+          "Apartman Görevlisi",
+          "Asansör",
+          "Bahçe Manzaralı",
+          "Bahçeli",
+          "Hidrofor",
+          "Isı Yalıtım",
+          "Jeneratör",
+          "Kamera Sistemi",
+          "Manzara - Şehir",
+          "Otopark - Kapalı"
+        ]
+      },
+      {
+        "title": "Konum Özellikleri",
+        "names": [
+          "Alışveriş Merkezi",
+          "Anayol",
+          "Avrasya Tüneli'ne yakın",
+          "Boğaz köprülerine yakın",
+          "Cadde Üzerinde",
+          "Caddeye yakın",
+          "Camiye Yakın",
+          "Deniz Ulaşımına yakın",
+          "Hastane",
+          "İlköğretim Okulu"
+        ]
+      }
+    ],
+    "mapLocation": {
+      "isHidden": false,
+      "latitude": 40.981,
+      "longitude": 29.065
+    },
+    "address": {
+      "city": {
+        "id": 34,
+        "name": "İstanbul"
+      },
+      "county": {
+        "id": 1421,
+        "name": "Kadıköy"
+      },
+      "district": {
+        "id": 12892,
+        "name": "Göztepe"
+      }
+    },
+    "stale": false,
+    "videoUrl": "",
+    "featuringProducts": null,
+    "tagProducts": null,
+    "onlineVisit": true,
+    "virtualTour": null,
+    "grossSqm": 90,
+    "poiSuggestions": [
+      {
+        "mainType": "TRANSPORTATION",
+        "pois": [
+          {
+            "distance": "815 m"
+          },
+          {
+            "distance": "2 km"
+          },
+          {
+            "distance": "267 m"
+          }
+        ]
+      },
+      {
+        "mainType": "HEALTH_ORGANIZATIONS",
+        "pois": [
+          {
+            "distance": "742 m"
+          },
+          {
+            "distance": "689 m"
+          },
+          {
+            "distance": "377 m"
+          }
+        ]
+      },
+      {
+        "mainType": "EDUCATION",
+        "pois": [
+          {
+            "distance": "1,2 km"
+          },
+          {
+            "distance": "1,2 km"
+          },
+          {
+            "distance": "451 m"
+          }
+        ]
+      }
+    ],
+    "additionalGuestFee": 0,
+    "additionalGuestFeeCurrency": null,
+    "checkInTime": null,
+    "checkOutTime": null,
+    "cleaningFee": 0,
+    "cleaningFeeCurrency": null,
+    "entertainmentAllowed": false,
+    "guestCount": 0,
+    "invoiceIncluded": false,
+    "maximumStay": 0,
+    "minimumStay": 0,
+    "period": null,
+    "petAllowed": false,
+    "doubleBedCount": 0,
+    "singleBedCount": 0,
+    "bathRoom": 1,
+    "roomAndLivingRoom": "2+1",
+    "fixedDailyPrice": null,
+    "fixedDailyPriceCurrencyId": null,
+    "widget": {
+      "similarWidgetVisible": false,
+      "firmRealtiesWidgetVisible": true
+    },
+    "realtyIdentificationNo": "1234abcd",
+    "energyDocumentNo": "",
+    "isShared": true,
+    "breadcrumbs": [
+      {
+        "name": "Satılık",
+        "title": "Satılık",
+        "url": "satilik"
+      },
+      {
+        "name": "İstanbul Satılık",
+        "title": "İstanbul Satılık",
+        "url": "istanbul-satilik"
+      },
+      {
+        "name": "Kadıköy Satılık",
+        "title": "Kadıköy Satılık",
+        "url": "kadikoy-satilik"
+      },
+      {
+        "name": "Göztepe Satılık",
+        "title": "Göztepe Satılık",
+        "url": "kadikoy-goztepe-mah-satilik"
+      },
+      {
+        "name": "Daire",
+        "title": "Göztepe Satılık Daire",
+        "url": "kadikoy-goztepe-mah-satilik/daire"
+      },
+      {
+        "name": "172049-46",
+        "title": null,
+        "url": null
+      }
+    ],
+    "realtySummary": null,
+    "hasPositiveInteraction": false
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "success": true,
+  "data": {
+    "content": [
+      {
+        "realty": {
+          "listingId": "124165-1354",
+          "price": [
+            16000000
+          ],
+          "currency": {
+            "code": "TL"
+          },
+          "updatedDate": "2026-11-03T18:09:26.000+0000",
+          "createdDate": "2026-11-03T18:08:47.000+0000",
+          "hasUpdateBooster": false,
+          "city": {
+            "name": "İstanbul"
+          },
+          "county": {
+            "name": "Kadıköy"
+          },
+          "district": {
+            "name": "Fikirtepe"
+          },
+          "images": [
+            "https://hecdn01.hemlak.com/mncropresize/800/600/ds01/7/9/0/5/8/5/7/4/d86d35c4-8f62-49d0-bcda-54f0c0b70747.jpg",
+            "https://hecdn01.hemlak.com/mncropresize/800/600/ds01/7/9/0/5/8/5/7/4/a1b84a32-eabd-4a42-8be5-e8612baafe15.jpg"
+          ],
+          "sizeUpImages": [
+            "https://hecdnw01.hemlak.com/ds01/7/9/0/5/8/5/7/4/d86d35c4-8f62-49d0-bcda-54f0c0b70747.jpg"
+          ],
+          "age": 5,
+          "floor": {
+            "name": "3"
+          },
+          "star": {
+            "name": ""
+          },
+          "room": [
+            3
+          ],
+          "roomAndLivingRoom": [
+            "3+1"
+          ],
+          "floorCounts": null,
+          "sqm": {
+            "grossSqm": [
+              129
+            ],
+            "netSqm": 96,
+            "indoorGrossSqm": 0,
+            "outdoorGrossSqm": 0,
+            "indoorNetSqm": 0,
+            "outdoorNetSqm": 0,
+            "price": 0,
+            "currencyCode": null
+          },
+          "title": "Optimist Rezidans 3,5+1 Boş Satılık Açık cephe Daire",
+          "mainCategory": {
+            "typeId": 1000010100,
+            "typeName": "Konut"
+          },
+          "category": {
+            "typeId": 1000010101,
+            "typeName": "Satılık"
+          },
+          "subCategory": {
+            "typeId": 10000101,
+            "typeName": "Daire"
+          },
+          "detailUrl": "istanbul-kadikoy-fikirtepe-satilik/daire/124165-1354",
+          "realtyId": 47585097,
+          "tagProducts": null,
+          "featuringProducts": null,
+          "hasBranded": true,
+          "hasFeatured": false,
+          "projeland": false,
+          "imageUrl": "",
+          "hasFirmBrandedUser": false,
+          "onlineVisit": false,
+          "video": true,
+          "virtual": false,
+          "stale": false,
+          "bedCount": 0,
+          "guestCount": 0,
+          "periodName": null,
+          "landRegisterName": "Kat Mülkiyeti",
+          "realtyIdentificationNo": "1234abcd",
+          "energyDocumentNo": null,
+          "isShared": false,
+          "hasPositiveInteraction": false
+        },
+        "project": null
+      },
+      {
+        "realty": {
+          "listingId": "172049-46",
+          "price": [
+            12750000
+          ],
+          "currency": {
+            "code": "TL"
+          },
+          "updatedDate": "2026-11-03T17:53:34.000+0000",
+          "createdDate": "2026-11-03T17:06:11.000+0000",
+          "hasUpdateBooster": false,
+          "city": {
+            "name": "İstanbul"
+          },
+          "county": {
+            "name": "Kadıköy"
+          },
+          "district": {
+            "name": "Göztepe"
+          },
+          "images": [
+            "https://hecdn01.hemlak.com/mncropresize/800/600/ds01/0/3/9/4/8/5/7/4/1793725649-238933-47584930.jpeg",
+            "https://hecdn01.hemlak.com/mncropresize/800/600/ds01/0/3/9/4/8/5/7/4/1793725650-709979-47584930.jpeg"
+          ],
+          "sizeUpImages": [
+            "https://hecdnw01.hemlak.com/ds01/0/3/9/4/8/5/7/4/1793725649-238933-47584930.jpeg"
+          ],
+          "age": 10,
+          "floor": {
+            "name": "Giriş Katı"
+          },
+          "star": {
+            "name": ""
+          },
+          "room": [
+            2
+          ],
+          "roomAndLivingRoom": [
+            "2+1"
+          ],
+          "floorCounts": null,
+          "sqm": {
+            "grossSqm": [
+              90
+            ],
+            "netSqm": 60,
+            "indoorGrossSqm": 0,
+            "outdoorGrossSqm": 0,
+            "indoorNetSqm": 0,
+            "outdoorNetSqm": 0,
+            "price": 0,
+            "currencyCode": null
+          },
+          "title": "TEK YETKİLİ ,GÖZTEPE MARMARAYA VE MİNÜBÜSE YAKIN ,BAHÇE KEYİFLİ 2+1 SATILIK DAİRE",
+          "mainCategory": {
+            "typeId": 1000010100,
+            "typeName": "Konut"
+          },
+          "category": {
+            "typeId": 1000010101,
+            "typeName": "Satılık"
+          },
+          "subCategory": {
+            "typeId": 10000101,
+            "typeName": "Daire"
+          },
+          "detailUrl": "istanbul-kadikoy-goztepe-satilik/daire/172049-46",
+          "realtyId": 47584930,
+          "tagProducts": null,
+          "featuringProducts": null,
+          "hasBranded": true,
+          "hasFeatured": false,
+          "projeland": false,
+          "imageUrl": "",
+          "hasFirmBrandedUser": false,
+          "onlineVisit": true,
+          "video": false,
+          "virtual": false,
+          "stale": false,
+          "bedCount": 0,
+          "guestCount": 0,
+          "periodName": null,
+          "landRegisterName": "Kat Mülkiyeti",
+          "realtyIdentificationNo": "1234abcd",
+          "energyDocumentNo": null,
+          "isShared": true,
+          "hasPositiveInteraction": false
+        },
+        "project": null
+      },
+      {
+        "realty": {
+          "listingId": "53165-29126",
+          "price": [
+            19000000
+          ],
+          "currency": {
+            "code": "TL"
+          },
+          "updatedDate": "2026-11-03T15:59:46.000+0000",
+          "createdDate": "2026-11-03T15:59:10.000+0000",
+          "hasUpdateBooster": false,
+          "city": {
+            "name": "İstanbul"
+          },
+          "county": {
+            "name": "Kadıköy"
+          },
+          "district": {
+            "name": "Göztepe"
+          },
+          "images": [
+            "https://hecdn01.hemlak.com/mncropresize/800/600/ds01/8/8/6/4/8/5/7/4/b97aa8be-bb5f-422a-8646-d46ef5102a94.jpg",
+            "https://hecdn01.hemlak.com/mncropresize/800/600/ds01/8/8/6/4/8/5/7/4/807473e3-d92e-40fd-9334-2ecb55960758.jpg"
+          ],
+          "sizeUpImages": [
+            "https://hecdnw01.hemlak.com/ds01/8/8/6/4/8/5/7/4/b97aa8be-bb5f-422a-8646-d46ef5102a94.jpg"
+          ],
+          "age": 0,
+          "floor": {
+            "name": "1"
+          },
+          "star": {
+            "name": ""
+          },
+          "room": [
+            3
+          ],
+          "roomAndLivingRoom": [
+            "3+1"
+          ],
+          "floorCounts": null,
+          "sqm": {
+            "grossSqm": [
+              128
+            ],
+            "netSqm": 97,
+            "indoorGrossSqm": 0,
+            "outdoorGrossSqm": 0,
+            "indoorNetSqm": 0,
+            "outdoorNetSqm": 0,
+            "price": 0,
+            "currencyCode": null
+          },
+          "title": "VİZYON'DAN FIRSAT GÖZTEPEDE MARMARAYA YAKIN SIFIR BALKONLU 3+1",
+          "mainCategory": {
+            "typeId": 1000010100,
+            "typeName": "Konut"
+          },
+          "category": {
+            "typeId": 1000010101,
+            "typeName": "Satılık"
+          },
+          "subCategory": {
+            "typeId": 10000101,
+            "typeName": "Daire"
+          },
+          "detailUrl": "istanbul-kadikoy-goztepe-satilik/daire/53165-29126",
+          "realtyId": 47584688,
+          "tagProducts": null,
+          "featuringProducts": null,
+          "hasBranded": true,
+          "hasFeatured": false,
+          "projeland": false,
+          "imageUrl": "",
+          "hasFirmBrandedUser": false,
+          "onlineVisit": false,
+          "video": false,
+          "virtual": false,
+          "stale": false,
+          "bedCount": 0,
+          "guestCount": 0,
+          "periodName": null,
+          "landRegisterName": "Kat Mülkiyeti",
+          "realtyIdentificationNo": "1234abcd",
+          "energyDocumentNo": null,
+          "isShared": false,
+          "hasPositiveInteraction": false
+        },
+        "project": null
+      },
+      {
+        "realty": null,
+        "project": {
+          "listingId": "projeland_6976",
+          "realtyId": 6976,
+          "quality": 1,
+          "priceScore": 1,
+          "logo": "https://hecdn01.hemlak.com/mncropresize/800/600/UEQ0bmsxblh6L1JpbVcrTy82cUd1MWsyK1lkZXF3TDVkUkVZbFJ1R1BHQytGbDdhTG8xK3dDdmZkaSt5RGE1MDAreEEwbWFOalhjdHJ5dkVhbE1QSlE9PQ==.jpg",
+          "address": "Erenköy Mah. Ülke Sk. No:5 Pınar Apartmanı Kadıköy / İstanbul",
+          "projectCity": "İstanbul",
+          "cityId": 34,
+          "cityNameAndUrl": "İstanbul;/proje/istanbul-projeleri",
+          "projectCounty": "Kadıköy",
+          "countyId": 1421,
+          "projectDistrict": "Erenköy",
+          "districtId": 12899,
+          "name": "Pınar Apartmanı",
+          "nameSeo": "pinar-apartmani1",
+          "constructorId": 4000,
+          "constructorName": "Ak İnşaat Mermercilik ve Gayrimenkul Yatırım Ticaret A.Ş.",
+          "constructorNameSeo": "ak-insaat-mermercilik-ve-gayrimenkul-yatirim-ticaret-a-s",
+          "url": "/proje/istanbul-kadikoy/pinar-apartmani1-projesi-6976",
+          "breadcrumb": [
+            {
+              "name": "Projeler",
+              "url": "/proje/projeleri"
+            },
+            {
+              "name": "İstanbul Projeleri",
+              "url": "/proje/istanbul-projeleri"
+            },
+            {
+              "name": "Kadıköy Projeleri",
+              "url": "/proje/kadikoy-projeleri"
+            },
+            {
+              "name": "Erenköy Projeleri",
+              "url": "/proje/kadikoy-erenkoy-projeleri"
+            }
+          ],
+          "minPrice": 27250000,
+          "minSqm": 125,
+          "maxSqm": 125,
+          "pricePerSqm": 218000,
+          "hidePricePerSqm": false,
+          "hidePrice": false,
+          "realtyType": {
+            "id": 1,
+            "name": "Daire"
+          },
+          "flatCount": 24,
+          "flatCountForSale": 0,
+          "lowCeilingHeight": 0,
+          "topCeilingHeight": 0,
+          "lowFloorsCount": 12,
+          "topFloorsCount": 12,
+          "deliveryQuarter": 1,
+          "deliveryYear": 2027,
+          "checkedPriceDate": 1782756000000,
+          "createdDate": 1782839973817,
+          "description": "",
+          "latitude": 40.971802098677905,
+          "longitude": 29.07473442800723,
+          "imageList": [
+            {
+              "url": "UVU5TDh3UlVuRTRkWmlNQmFiNDBXZlhJSitEdjJjWHVjNGU5OHhySzdHdXJ1MjhVdGhQTXVPMUNtNm92dUVCWQ==.jpg",
+              "isMain": true,
+              "orderCount": 1
+            },
+            {
+              "url": "QjNqVy9rRStmNGZWaG5xZ0YzZHg4Y0ZYaDcrY3REdEk1U2FPMHdBZ2hXaGhMTUQ5MEVYcjBkbmhicnZKc3lMSQ==.jpg",
+              "isMain": false,
+              "orderCount": 2
+            },
+            {
+              "url": "WUh2WmY1TlI4eU9lV1VGU1JPUGM2Z0ZQUnRMUHhVNGI3bEh4UU1XVW1keWNzalpvcUJPY1k5ZzNjc0F3T1RWQg==.jpg",
+              "isMain": false,
+              "orderCount": 3
+            },
+            {
+              "url": "Y2h4Z2FNdkVOSjhYTnJlSUo5SXAvd0xUQTNsTktMUm90K1Q0cGJjck1XT0F0K1BsTk45UVc5WlJQL3k3V1QvTg==.jpg",
+              "isMain": false,
+              "orderCount": 4
+            }
+          ],
+          "sizeUpImages": [
+            "https://cdn02.hemlak.com/UVU5TDh3UlVuRTRkWmlNQmFiNDBXZlhJSitEdjJjWHVjNGU5OHhySzdHdXJ1MjhVdGhQTXVPMUNtNm92dUVCWQ==.jpg"
+          ],
+          "featureList": [],
+          "features": [],
+          "videoList": [],
+          "flatPlanList": [
+            {
+              "roomNumber": 3,
+              "livingRoomNumber": 1,
+              "image": "SlFDS3QyR1o2VzZIVUJuYXFDSGxXTVR4cEJibUl1V2RweUwrNks0cU1yMXlZbU40N3RET1VodFg1UUszWjJaQWNJcVU1eU1tN0FxTUMxK3BwaGkrYlE9PQ==.jpg",
+              "price": 27250000,
+              "netSqm": 92,
+              "grossSqm": 125,
+              "pricePerSqm": 218000
+            }
+          ],
+          "roomsAndLivingRooms": [
+            "3+1"
+          ],
+          "campaign": null,
+          "houseType": null,
+          "complexStatusType": {
+            "id": 2,
+            "name": "Ücretsiz"
+          },
+          "constructionStatusType": {
+            "id": 8192,
+            "name": "Proje İnşaat Aşamasında"
+          },
+          "indoorFinishType": {
+            "id": 16,
+            "name": "Anahtar Teslim"
+          },
+          "heatingType": {
+            "id": 1,
+            "name": "Merkezi"
+          },
+          "liftType": {
+            "id": 1,
+            "name": "İnsan"
+          },
+          "parkingType": {
+            "id": 9,
+            "name": "Açık,Kapalı"
+          },
+          "saleStatusType": {
+            "id": 4,
+            "name": "Aktif Satış"
+          }
+        }
+      }
+    ],
+    "page": {
+      "number": 1,
+      "size": 20,
+      "totalElements": 2543,
+      "totalPages": 127
+    },
+    "heading": "Satılık Konut"
+  }
+}

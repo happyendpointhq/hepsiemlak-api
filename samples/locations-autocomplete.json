@@ -1,0 +1,184 @@
+{
+  "success": true,
+  "data": [
+    {
+      "title": "Konum",
+      "suggestions": [
+        {
+          "id": "1421",
+          "name": "İstanbul, Kadıköy",
+          "poiType": "",
+          "type": "LISTING",
+          "suggestionDescription": "İlçe",
+          "latitude": "40.9914169311523",
+          "longitude": "29.0239143371582",
+          "url": "kadikoy",
+          "bold": [
+            {
+              "beginIndex": 10,
+              "endIndex": 17
+            }
+          ]
+        },
+        {
+          "id": "21139",
+          "name": "Balıkesir, Edremit, Merkez, Kadıköy",
+          "poiType": "",
+          "type": "LISTING",
+          "suggestionDescription": "Mahalle",
+          "latitude": "39.606737",
+          "longitude": "26.994614",
+          "url": "edremit-kadikoy",
+          "bold": [
+            {
+              "beginIndex": 28,
+              "endIndex": 35
+            }
+          ]
+        },
+        {
+          "id": "2009",
+          "name": "Yalova, Merkez, Kadıköy",
+          "poiType": "",
+          "type": "LISTING",
+          "suggestionDescription": "Semt",
+          "latitude": "40.63321304321285",
+          "longitude": "29.2359199523926",
+          "url": "yalova-kadikoy",
+          "bold": [
+            {
+              "beginIndex": 16,
+              "endIndex": 23
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Siteler",
+      "suggestions": [
+        {
+          "id": "95109",
+          "name": "Kadıköy Birlik Evleri (İstanbul, Sarıyer, Ayazağa)",
+          "poiType": "SITE",
+          "type": "",
+          "suggestionDescription": "Site",
+          "latitude": "41.123179",
+          "longitude": "29.00386",
+          "url": "konut?poiType=SITE&lat=41.123179&lon=29.00386",
+          "bold": [
+            {
+              "beginIndex": 0,
+              "endIndex": 7
+            }
+          ]
+        },
+        {
+          "id": "8716791",
+          "name": "Referans Kadıköy Sitesi (Balıkesir, Edremit, Kadıköy)",
+          "poiType": "SITE",
+          "type": "",
+          "suggestionDescription": "Site",
+          "latitude": "39.601551",
+          "longitude": "26.997038",
+          "url": "konut?poiType=SITE&lat=39.601551&lon=26.997038",
+          "bold": [
+            {
+              "beginIndex": 9,
+              "endIndex": 16
+            },
+            {
+              "beginIndex": 45,
+              "endIndex": 52
+            }
+          ]
+        },
+        {
+          "id": "10473261",
+          "name": "Uplife Kadıköy Sitesi (İstanbul, Kadıköy, Dumlupınar)",
+          "poiType": "SITE",
+          "type": "",
+          "suggestionDescription": "Site",
+          "latitude": "40.994263412417",
+          "longitude": "29.062669936837",
+          "url": "konut?poiType=SITE&lat=40.994263412417&lon=29.062669936837",
+          "bold": [
+            {
+              "beginIndex": 7,
+              "endIndex": 14
+            },
+            {
+              "beginIndex": 33,
+              "endIndex": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Yakınında",
+      "suggestions": [
+        {
+          "id": "101369",
+          "name": "Kadıköy İsmail Hakkı Tonguç Çocuk Yuvası (İstanbul, Kadıköy, Sahrayı Cedit)",
+          "poiType": "EDUCATION",
+          "type": "MAP_LISTING",
+          "suggestionDescription": "Okul",
+          "latitude": "40.988202",
+          "longitude": "29.079213",
+          "url": "konut?poiType=EDUCATION&lat=40.988202&lon=29.079213",
+          "bold": [
+            {
+              "beginIndex": 0,
+              "endIndex": 7
+            },
+            {
+              "beginIndex": 52,
+              "endIndex": 59
+            }
+          ]
+        },
+        {
+          "id": "1857374",
+          "name": "Kadıköy Anadolu İmam Hatip Lisesi (İstanbul, Kadıköy, Hasanpaşa)",
+          "poiType": "EDUCATION",
+          "type": "MAP_LISTING",
+          "suggestionDescription": "Okul",
+          "latitude": "40.99896496",
+          "longitude": "29.0539032",
+          "url": "konut?poiType=EDUCATION&lat=40.99896496&lon=29.0539032",
+          "bold": [
+            {
+              "beginIndex": 0,
+              "endIndex": 7
+            },
+            {
+              "beginIndex": 45,
+              "endIndex": 52
+            }
+          ]
+        },
+        {
+          "id": "2097686",
+          "name": "Kadıköy İmam Hatip Ortaokulu (İstanbul, Kadıköy, Hasanpaşa)",
+          "poiType": "EDUCATION",
+          "type": "MAP_LISTING",
+          "suggestionDescription": "Okul",
+          "latitude": "40.996129479558",
+          "longitude": "29.047020039455",
+          "url": "konut?poiType=EDUCATION&lat=40.996129479558&lon=29.047020039455",
+          "bold": [
+            {
+              "beginIndex": 0,
+              "endIndex": 7
+            },
+            {
+              "beginIndex": 40,
+              "endIndex": 47
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
