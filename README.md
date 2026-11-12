@@ -320,6 +320,7 @@ endpoint tables above summarise them. Example responses are in [`samples/`](samp
 - [fotocasa-api](https://github.com/happyendpointhq/fotocasa-api) - Spanish property listings from Fotocasa
 - [uae-real-estate-api](https://github.com/happyendpointhq/uae-real-estate-api) - asking versus paid prices in Dubai
 - [awesome-alternative-data](https://github.com/happyendpointhq/awesome-alternative-data) - alternative data sources for investment research
+- [cian-api](https://github.com/happyendpointhq/cian-api) - Russia listings with asking-price history, market estimates and new-build complexes
 
 ---
 
